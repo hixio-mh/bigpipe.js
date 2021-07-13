@@ -32,7 +32,7 @@
     "test"
   ],
   "devDependencies": {
-    "assume": "1.1.x",
+    "assume": "1.5.2",
     "browserify": "9.0.x"
   },
   "author": "Arnout Kazemier",
