@@ -33,7 +33,7 @@
   ],
   "devDependencies": {
     "assume": "1.1.x",
-    "browserify": "9.0.x"
+    "browserify": "12.0.0"
   },
   "author": "Arnout Kazemier",
   "license": "MIT",
